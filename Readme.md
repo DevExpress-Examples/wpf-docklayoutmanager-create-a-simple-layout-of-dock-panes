@@ -4,10 +4,9 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# How to create a simple layout of dock panes
+# WPF Dock Layout Manager - Create a Simple Layout of Dock Panels
 
-
-<p>This example shows how to create a simple docking application. The application contains the following dock panels
+This example shows how to create a simple docking application. The application contains the following dock panels:
 
 * Toolbox - a regular dock panel ([LayoutPanel](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.LayoutPanel)), docked to the left.
 * Properties - an auto-hidden dock panel ([AutoHideGroup](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.AutoHideGroup)).
@@ -16,14 +15,15 @@
 
 ![Simple Docking Application](https://user-images.githubusercontent.com/12169834/172381729-0cd065d2-a443-44f2-95ac-b250196e79ef.png)
 
-
-<!-- default file list -->
-## Files to look at:
+## Files to Review
 
 * [Window1.xaml](./CS/SimpleDockingApplication/Window1.xaml) (VB: [Window1.xaml](./VB/SimpleDockingApplication/Window1.xaml))
 * [Window1.xaml.cs](./CS/SimpleDockingApplication/Window1.xaml.cs) (VB: [Window1.xaml.vb](./VB/SimpleDockingApplication/Window1.xaml.vb))
-<!-- default file list end -->
 
 ## Documentation
 
-[Create a simple layout of dock panes](https://docs.devexpress.com/WPF/6654/controls-and-libraries/layout-management/dock-windows/getting-started/how-to-create-a-simple-layout-of-dock-panes)
+* [Create a simple layout of dock panes](https://docs.devexpress.com/WPF/6654/controls-and-libraries/layout-management/dock-windows/getting-started/how-to-create-a-simple-layout-of-dock-panes)
+
+## More Examples
+
+* [WPF Dock Layout Manager - Create a Complex Layout of Dock Panels](https://github.com/DevExpress-Examples/wpf-docklayoutmanager-create-a-complex-dock-ui)
