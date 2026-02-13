@@ -29,7 +29,7 @@
 
 [Create a simple layout of dock panes](https://docs.devexpress.com/WPF/6654/controls-and-libraries/layout-management/dock-windows/getting-started/how-to-create-a-simple-layout-of-dock-panes)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-docklayoutmanager-create-a-simple-layout-of-dock-panes&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-docklayoutmanager-create-a-simple-layout-of-dock-panes&~~~was_helpful=no)
 
